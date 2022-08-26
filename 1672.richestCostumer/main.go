@@ -9,7 +9,7 @@ import (
 
 func main() {
 
-	arr := [][]int{{1, 2, 3}, {3, 2, 1,4,9}, {1, 2, 3,4,5}}
+	arr := [][]int{{1, 2, 3}, {3, 2, 1, 4, 9}, {1, 2, 3, 4, 5}}
 
 	fmt.Println(maximumWealth(arr))
 }
